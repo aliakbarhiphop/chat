@@ -1,0 +1,2 @@
+git remote set-url origin https://aliakbarhiphop@github.com/aliakbarhiphop/task-app.git
+git push -u origin master
